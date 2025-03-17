@@ -13,5 +13,5 @@ Feel free to explore, download, and contribute to the repository. Let's make lea
 
 ### PhD level
 
-- Enhancing your academic performance: Unlocking your PhD Success - 20250313 - Suffolk Doctoral College, PGR Workshop
+- Enhancing your academic performance: Unlocking your PhD Success - 20250312 - Suffolk Doctoral College, PGR Workshop
 - Developing and Publishing Your Own Research - 20250317 - Suffolk Doctoral College, PGR Workshop
